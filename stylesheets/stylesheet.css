@@ -1,3 +1,9 @@
+.shrink {
+  width: 10%;
+  height: 10%;
+  
+  
+}
 * {
   box-sizing: border-box; }
 
